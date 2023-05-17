@@ -1,0 +1,26 @@
+Snake Game
+
+This is a simple implementation of the classic Snake game in C++ using the ncurses library for terminal-based graphics.
+
+Gameplay
+
+Use the arrow keys to control the snake's movement: Up, Down, Left, and Right.
+The objective of the game is to eat the food (*) to increase your score.
+Avoid hitting the walls or the snake's own body, as this will end the game.
+The game ends when you press the 'q' key or collide with a wall or the snake's body.
+
+Controls
+
+Arrow Up: Move the snake upwards.
+Arrow Down: Move the snake downwards.
+Arrow Left: Move the snake to the left.
+Arrow Right: Move the snake to the right.
+'q': Quit the game.
+
+Game Elements
+Snake: The player-controlled character represented by the 'o' symbol.
+Food: The target for the snake to eat, represented by the '@' symbol.
+Score: The score represents the number of times the snake has eaten the food.
+
+Enjoy the Game!
+Have fun playing the Snake game! Try to achieve the highest score without hitting any walls or the snake's body. Good luck!
